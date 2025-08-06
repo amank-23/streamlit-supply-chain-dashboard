@@ -134,7 +134,7 @@ with tab4:
 
 # --- NEW AESTHETIC SUMMARY TAB ---
 with tab5:
-    st.header("📄 Project Summary & Key Insights")
+    st.header(" Project Summary & Key Insights")
     st.markdown("This project provides a comprehensive analysis of e-commerce sales data, identifying key business drivers and delivering a validated demand forecast.")
     
     st.markdown("---")
