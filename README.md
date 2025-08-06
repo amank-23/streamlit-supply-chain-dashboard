@@ -2,6 +2,12 @@
 
 <div align="center">
 
+**[<img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App" height="30">](https://dashboardpy2311.streamlit.app/)**
+
+</div>
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-v1.0+-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
